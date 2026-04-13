@@ -1,0 +1,14 @@
+import the module
+when writing - add variable parameter 
+write the code -> functions, loop, condition
+Invoking or executing the code 
+
+function: c = a+b  - single action | i will be writing a function code 
+module: a, b then c = a+b and then d = a-b | Two function or group of functions put together create a module
+package: group of modules put together create a package | bundle  - wheel format 
+
+2 type of variables |
+1st is globale variable: a = 2 | which needs to be referenced across the code is called global variable. 
+2nd local variable: define function 1 | b = 2 | is local to function 1 only 
+
+execution place: At the end of the code is when execution is called, either from same file or other file. Function is called. 
